@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1685203852003,
+      "tag": "0000_fearless_colleen_wing",
+      "breakpoints": false
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1685204073919,
+      "tag": "0001_tired_sway",
+      "breakpoints": false
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1685204110355,
+      "tag": "0002_serious_whiplash",
+      "breakpoints": false
+    }
+  ]
+}
